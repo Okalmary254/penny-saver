@@ -1,0 +1,14 @@
+financial-app/
+├── backend/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── server.js
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── screens/
+│   │   ├── App.js
+│   │   ├── index.js
+├── README.md
+├── package.json
